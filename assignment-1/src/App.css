@@ -1,0 +1,7 @@
+.App {
+  display: flex;
+}
+
+.user h1 {
+  margin-left: 0.5em;
+}
