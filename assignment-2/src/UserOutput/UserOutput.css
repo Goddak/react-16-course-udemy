@@ -1,0 +1,12 @@
+.user {
+  display: flex;
+  flex-direction: column;
+  padding: 1em;
+  margin: 0.5em;
+  box-shadow: 0.15em 0.15em 0.5em #aaa;
+  flex: 1 1 33%;
+}
+
+h5 {
+  margin-bottom: 0;
+}
